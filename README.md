@@ -14,7 +14,7 @@ clone the package into the src directory.
  cd src 
 ```
 
-# LAUNCH THE ROBOT INTO GAZEBO WORLD.
+# SPAWN THE ROBOT INTO GAZEBO WORLD.
 ```
  roslaunch Magnum_description emptyworld.launch 
 ```
